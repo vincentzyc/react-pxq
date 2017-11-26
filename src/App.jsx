@@ -5,10 +5,10 @@ import route from './Router/Route'; //路由配置
 import store from './Redux/Store/Store';
 import './Config/Config.js';//引入默认配置
 
-import './Style/common.scss';
-import './Style/head.scss';
-import './Style/index.scss';
-import './Style/chooseProducts.scss';
+import './Style/common.css';
+import './Style/head.css';
+import './Style/index.css';
+import './Style/chooseProducts.css';
 import './Style/helpCenter.less';
 import './Style/saleRecord.less';
 import './Style/allDeposit.less';
